@@ -1,1 +1,3 @@
-Compilador seleccionado: Microsoft Visual Studio Code (C23)
+Compilador seleccionado: GCC 
+Version del compilador: 13.2.0
+Versión de C: C23
